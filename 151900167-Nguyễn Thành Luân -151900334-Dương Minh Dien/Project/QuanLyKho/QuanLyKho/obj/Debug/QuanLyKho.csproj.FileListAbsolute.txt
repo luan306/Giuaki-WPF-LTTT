@@ -1,0 +1,186 @@
+D:\Work server\Team\Video hướng dẫn\WPF - Material Design - MVVM - Quản lý kho\Project\QuanLyKho\QuanLyKho\bin\Debug\QuanLyKho.exe.config
+D:\Work server\Team\Video hướng dẫn\WPF - Material Design - MVVM - Quản lý kho\Project\QuanLyKho\QuanLyKho\bin\Debug\QuanLyKho.exe
+D:\Work server\Team\Video hướng dẫn\WPF - Material Design - MVVM - Quản lý kho\Project\QuanLyKho\QuanLyKho\bin\Debug\QuanLyKho.pdb
+D:\Work server\Team\Video hướng dẫn\WPF - Material Design - MVVM - Quản lý kho\Project\QuanLyKho\QuanLyKho\bin\Debug\MaterialDesignColors.dll
+D:\Work server\Team\Video hướng dẫn\WPF - Material Design - MVVM - Quản lý kho\Project\QuanLyKho\QuanLyKho\bin\Debug\MaterialDesignThemes.Wpf.dll
+D:\Work server\Team\Video hướng dẫn\WPF - Material Design - MVVM - Quản lý kho\Project\QuanLyKho\QuanLyKho\bin\Debug\MaterialDesignThemes.Wpf.pdb
+D:\Work server\Team\Video hướng dẫn\WPF - Material Design - MVVM - Quản lý kho\Project\QuanLyKho\QuanLyKho\bin\Debug\MaterialDesignThemes.Wpf.xml
+D:\Work server\Team\Video hướng dẫn\WPF - Material Design - MVVM - Quản lý kho\Project\QuanLyKho\QuanLyKho\obj\Debug\QuanLyKho.csprojResolveAssemblyReference.cache
+D:\Work server\Team\Video hướng dẫn\WPF - Material Design - MVVM - Quản lý kho\Project\QuanLyKho\QuanLyKho\obj\Debug\MainWindow.g.cs
+D:\Work server\Team\Video hướng dẫn\WPF - Material Design - MVVM - Quản lý kho\Project\QuanLyKho\QuanLyKho\obj\Debug\App.g.cs
+D:\Work server\Team\Video hướng dẫn\WPF - Material Design - MVVM - Quản lý kho\Project\QuanLyKho\QuanLyKho\obj\Debug\QuanLyKho_MarkupCompile.cache
+D:\Work server\Team\Video hướng dẫn\WPF - Material Design - MVVM - Quản lý kho\Project\QuanLyKho\QuanLyKho\obj\Debug\QuanLyKho_MarkupCompile.lref
+D:\Work server\Team\Video hướng dẫn\WPF - Material Design - MVVM - Quản lý kho\Project\QuanLyKho\QuanLyKho\obj\Debug\App.baml
+D:\Work server\Team\Video hướng dẫn\WPF - Material Design - MVVM - Quản lý kho\Project\QuanLyKho\QuanLyKho\obj\Debug\MainWindow.baml
+D:\Work server\Team\Video hướng dẫn\WPF - Material Design - MVVM - Quản lý kho\Project\QuanLyKho\QuanLyKho\obj\Debug\QuanLyKho.g.resources
+D:\Work server\Team\Video hướng dẫn\WPF - Material Design - MVVM - Quản lý kho\Project\QuanLyKho\QuanLyKho\obj\Debug\QuanLyKho.Properties.Resources.resources
+D:\Work server\Team\Video hướng dẫn\WPF - Material Design - MVVM - Quản lý kho\Project\QuanLyKho\QuanLyKho\obj\Debug\QuanLyKho.csproj.GenerateResource.Cache
+D:\Work server\Team\Video hướng dẫn\WPF - Material Design - MVVM - Quản lý kho\Project\QuanLyKho\QuanLyKho\obj\Debug\QuanLyKho.csproj.CoreCompileInputs.cache
+D:\Work server\Team\Video hướng dẫn\WPF - Material Design - MVVM - Quản lý kho\Project\QuanLyKho\QuanLyKho\obj\Debug\QuanLyKho.exe
+D:\Work server\Team\Video hướng dẫn\WPF - Material Design - MVVM - Quản lý kho\Project\QuanLyKho\QuanLyKho\obj\Debug\QuanLyKho.pdb
+D:\Work server\Team\Video hướng dẫn\WPF - Material Design - MVVM - Quản lý kho\Project\QuanLyKho\QuanLyKho\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\Work server\Team\Video hướng dẫn\WPF - Material Design - MVVM - Quản lý kho\Project\QuanLyKho\QuanLyKho\obj\Debug\ResourceXAML\MainResource.baml
+D:\Work server\Team\Video hướng dẫn\WPF - Material Design - MVVM - Quản lý kho\Project\QuanLyKho\QuanLyKho\obj\Debug\LoginWindow.g.cs
+D:\Work server\Team\Video hướng dẫn\WPF - Material Design - MVVM - Quản lý kho\Project\QuanLyKho\QuanLyKho\obj\Debug\LoginWindow.baml
+D:\Work server\Team\Video hướng dẫn\WPF - Material Design - MVVM - Quản lý kho\Project\QuanLyKho\QuanLyKho\obj\Debug\UserControlKteam\ControlBarUC.g.cs
+D:\Work server\Team\Video hướng dẫn\WPF - Material Design - MVVM - Quản lý kho\Project\QuanLyKho\QuanLyKho\obj\Debug\UserControlKteam\ControlBarUC.baml
+D:\Work server\Team\Video hướng dẫn\WPF - Material Design - MVVM - Quản lý kho\Project\QuanLyKho\QuanLyKho\bin\Debug\Microsoft.Expression.Interactions.dll
+D:\Work server\Team\Video hướng dẫn\WPF - Material Design - MVVM - Quản lý kho\Project\QuanLyKho\QuanLyKho\bin\Debug\System.Windows.Interactivity.dll
+D:\Work server\Team\Video hướng dẫn\WPF - Material Design - MVVM - Quản lý kho\Project\QuanLyKho\QuanLyKho\bin\Debug\Microsoft.Expression.Interactions.xml
+D:\Work server\Team\Video hướng dẫn\WPF - Material Design - MVVM - Quản lý kho\Project\QuanLyKho\QuanLyKho\bin\Debug\System.Windows.Interactivity.xml
+D:\GIUAKI_WPF\Project-20211005T040753Z-001\Project\QuanLyKho\QuanLyKho\bin\Debug\QuanLyKho.exe.config
+D:\GIUAKI_WPF\Project-20211005T040753Z-001\Project\QuanLyKho\QuanLyKho\bin\Debug\QuanLyKho.exe
+D:\GIUAKI_WPF\Project-20211005T040753Z-001\Project\QuanLyKho\QuanLyKho\bin\Debug\QuanLyKho.pdb
+D:\GIUAKI_WPF\Project-20211005T040753Z-001\Project\QuanLyKho\QuanLyKho\bin\Debug\MaterialDesignColors.dll
+D:\GIUAKI_WPF\Project-20211005T040753Z-001\Project\QuanLyKho\QuanLyKho\bin\Debug\MaterialDesignThemes.Wpf.dll
+D:\GIUAKI_WPF\Project-20211005T040753Z-001\Project\QuanLyKho\QuanLyKho\bin\Debug\Microsoft.Expression.Interactions.dll
+D:\GIUAKI_WPF\Project-20211005T040753Z-001\Project\QuanLyKho\QuanLyKho\bin\Debug\System.Windows.Interactivity.dll
+D:\GIUAKI_WPF\Project-20211005T040753Z-001\Project\QuanLyKho\QuanLyKho\bin\Debug\MaterialDesignThemes.Wpf.pdb
+D:\GIUAKI_WPF\Project-20211005T040753Z-001\Project\QuanLyKho\QuanLyKho\bin\Debug\MaterialDesignThemes.Wpf.xml
+D:\GIUAKI_WPF\Project-20211005T040753Z-001\Project\QuanLyKho\QuanLyKho\bin\Debug\Microsoft.Expression.Interactions.xml
+D:\GIUAKI_WPF\Project-20211005T040753Z-001\Project\QuanLyKho\QuanLyKho\bin\Debug\System.Windows.Interactivity.xml
+D:\GIUAKI_WPF\Project-20211005T040753Z-001\Project\QuanLyKho\QuanLyKho\obj\Debug\QuanLyKho.csproj.AssemblyReference.cache
+D:\GIUAKI_WPF\Project-20211005T040753Z-001\Project\QuanLyKho\QuanLyKho\obj\Debug\LoginWindow.g.cs
+D:\GIUAKI_WPF\Project-20211005T040753Z-001\Project\QuanLyKho\QuanLyKho\obj\Debug\MainWindow.g.cs
+D:\GIUAKI_WPF\Project-20211005T040753Z-001\Project\QuanLyKho\QuanLyKho\obj\Debug\UserControlKteam\ControlBarUC.g.cs
+D:\GIUAKI_WPF\Project-20211005T040753Z-001\Project\QuanLyKho\QuanLyKho\obj\Debug\App.g.cs
+D:\GIUAKI_WPF\Project-20211005T040753Z-001\Project\QuanLyKho\QuanLyKho\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\GIUAKI_WPF\Project-20211005T040753Z-001\Project\QuanLyKho\QuanLyKho\obj\Debug\QuanLyKho_MarkupCompile.cache
+D:\GIUAKI_WPF\Project-20211005T040753Z-001\Project\QuanLyKho\QuanLyKho\obj\Debug\QuanLyKho_MarkupCompile.lref
+D:\GIUAKI_WPF\Project-20211005T040753Z-001\Project\QuanLyKho\QuanLyKho\obj\Debug\App.baml
+D:\GIUAKI_WPF\Project-20211005T040753Z-001\Project\QuanLyKho\QuanLyKho\obj\Debug\LoginWindow.baml
+D:\GIUAKI_WPF\Project-20211005T040753Z-001\Project\QuanLyKho\QuanLyKho\obj\Debug\MainWindow.baml
+D:\GIUAKI_WPF\Project-20211005T040753Z-001\Project\QuanLyKho\QuanLyKho\obj\Debug\ResourceXAML\MainResource.baml
+D:\GIUAKI_WPF\Project-20211005T040753Z-001\Project\QuanLyKho\QuanLyKho\obj\Debug\UserControlKteam\ControlBarUC.baml
+D:\GIUAKI_WPF\Project-20211005T040753Z-001\Project\QuanLyKho\QuanLyKho\obj\Debug\QuanLyKho.g.resources
+D:\GIUAKI_WPF\Project-20211005T040753Z-001\Project\QuanLyKho\QuanLyKho\obj\Debug\QuanLyKho.Properties.Resources.resources
+D:\GIUAKI_WPF\Project-20211005T040753Z-001\Project\QuanLyKho\QuanLyKho\obj\Debug\QuanLyKho.csproj.GenerateResource.cache
+D:\GIUAKI_WPF\Project-20211005T040753Z-001\Project\QuanLyKho\QuanLyKho\obj\Debug\QuanLyKho.csproj.CoreCompileInputs.cache
+D:\GIUAKI_WPF\Project-20211005T040753Z-001\Project\QuanLyKho\QuanLyKho\obj\Debug\QuanLyKho.csproj.CopyComplete
+D:\GIUAKI_WPF\Project-20211005T040753Z-001\Project\QuanLyKho\QuanLyKho\obj\Debug\QuanLyKho.exe
+D:\GIUAKI_WPF\Project-20211005T040753Z-001\Project\QuanLyKho\QuanLyKho\obj\Debug\QuanLyKho.pdb
+D:\GIUAKI_WPF\Project-20211005T040753Z-001\Project\QuanLyKho\QuanLyKho\obj\Debug\UserWindow.g.cs
+D:\GIUAKI_WPF\Project-20211005T040753Z-001\Project\QuanLyKho\QuanLyKho\obj\Debug\UserWindow.baml
+D:\GIUAKI_WPF\Project-20211005T040753Z-001\Project\QuanLyKho\QuanLyKho\bin\Debug\EntityFramework.dll
+D:\GIUAKI_WPF\Project-20211005T040753Z-001\Project\QuanLyKho\QuanLyKho\bin\Debug\EntityFramework.SqlServer.dll
+D:\GIUAKI_WPF\Project-20211005T040753Z-001\Project\QuanLyKho\QuanLyKho\bin\Debug\EntityFramework.xml
+D:\GIUAKI_WPF\Project-20211005T040753Z-001\Project\QuanLyKho\QuanLyKho\bin\Debug\EntityFramework.SqlServer.xml
+D:\GIUAKI_WPF\Project-20211005T040753Z-001\Project\QuanLyKho\QuanLyKho\obj\Debug\QuanLyKho_Content.g.cs
+D:\LTTT\Project-20211005T040753Z-001\Project\QuanLyKho\QuanLyKho\bin\Debug\QuanLyKho.exe.config
+D:\LTTT\Project-20211005T040753Z-001\Project\QuanLyKho\QuanLyKho\bin\Debug\QuanLyKho.exe
+D:\LTTT\Project-20211005T040753Z-001\Project\QuanLyKho\QuanLyKho\bin\Debug\QuanLyKho.pdb
+D:\LTTT\Project-20211005T040753Z-001\Project\QuanLyKho\QuanLyKho\bin\Debug\EntityFramework.dll
+D:\LTTT\Project-20211005T040753Z-001\Project\QuanLyKho\QuanLyKho\bin\Debug\EntityFramework.SqlServer.dll
+D:\LTTT\Project-20211005T040753Z-001\Project\QuanLyKho\QuanLyKho\bin\Debug\MaterialDesignColors.dll
+D:\LTTT\Project-20211005T040753Z-001\Project\QuanLyKho\QuanLyKho\bin\Debug\MaterialDesignThemes.Wpf.dll
+D:\LTTT\Project-20211005T040753Z-001\Project\QuanLyKho\QuanLyKho\bin\Debug\Microsoft.Expression.Interactions.dll
+D:\LTTT\Project-20211005T040753Z-001\Project\QuanLyKho\QuanLyKho\bin\Debug\System.Windows.Interactivity.dll
+D:\LTTT\Project-20211005T040753Z-001\Project\QuanLyKho\QuanLyKho\bin\Debug\EntityFramework.xml
+D:\LTTT\Project-20211005T040753Z-001\Project\QuanLyKho\QuanLyKho\bin\Debug\EntityFramework.SqlServer.xml
+D:\LTTT\Project-20211005T040753Z-001\Project\QuanLyKho\QuanLyKho\bin\Debug\MaterialDesignThemes.Wpf.pdb
+D:\LTTT\Project-20211005T040753Z-001\Project\QuanLyKho\QuanLyKho\bin\Debug\MaterialDesignThemes.Wpf.xml
+D:\LTTT\Project-20211005T040753Z-001\Project\QuanLyKho\QuanLyKho\bin\Debug\Microsoft.Expression.Interactions.xml
+D:\LTTT\Project-20211005T040753Z-001\Project\QuanLyKho\QuanLyKho\bin\Debug\System.Windows.Interactivity.xml
+D:\LTTT\Project-20211005T040753Z-001\Project\QuanLyKho\QuanLyKho\obj\Debug\QuanLyKho.csproj.AssemblyReference.cache
+D:\LTTT\Project-20211005T040753Z-001\Project\QuanLyKho\QuanLyKho\obj\Debug\LoginWindow.g.cs
+D:\LTTT\Project-20211005T040753Z-001\Project\QuanLyKho\QuanLyKho\obj\Debug\MainWindow.g.cs
+D:\LTTT\Project-20211005T040753Z-001\Project\QuanLyKho\QuanLyKho\obj\Debug\UserControlKteam\ControlBarUC.g.cs
+D:\LTTT\Project-20211005T040753Z-001\Project\QuanLyKho\QuanLyKho\obj\Debug\UserWindow.g.cs
+D:\LTTT\Project-20211005T040753Z-001\Project\QuanLyKho\QuanLyKho\obj\Debug\App.g.cs
+D:\LTTT\Project-20211005T040753Z-001\Project\QuanLyKho\QuanLyKho\obj\Debug\QuanLyKho_Content.g.cs
+D:\LTTT\Project-20211005T040753Z-001\Project\QuanLyKho\QuanLyKho\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\LTTT\Project-20211005T040753Z-001\Project\QuanLyKho\QuanLyKho\obj\Debug\QuanLyKho_MarkupCompile.cache
+D:\LTTT\Project-20211005T040753Z-001\Project\QuanLyKho\QuanLyKho\obj\Debug\QuanLyKho_MarkupCompile.lref
+D:\LTTT\Project-20211005T040753Z-001\Project\QuanLyKho\QuanLyKho\obj\Debug\App.baml
+D:\LTTT\Project-20211005T040753Z-001\Project\QuanLyKho\QuanLyKho\obj\Debug\LoginWindow.baml
+D:\LTTT\Project-20211005T040753Z-001\Project\QuanLyKho\QuanLyKho\obj\Debug\MainWindow.baml
+D:\LTTT\Project-20211005T040753Z-001\Project\QuanLyKho\QuanLyKho\obj\Debug\ResourceXAML\MainResource.baml
+D:\LTTT\Project-20211005T040753Z-001\Project\QuanLyKho\QuanLyKho\obj\Debug\UserControlKteam\ControlBarUC.baml
+D:\LTTT\Project-20211005T040753Z-001\Project\QuanLyKho\QuanLyKho\obj\Debug\UserWindow.baml
+D:\LTTT\Project-20211005T040753Z-001\Project\QuanLyKho\QuanLyKho\obj\Debug\QuanLyKho.g.resources
+D:\LTTT\Project-20211005T040753Z-001\Project\QuanLyKho\QuanLyKho\obj\Debug\QuanLyKho.Properties.Resources.resources
+D:\LTTT\Project-20211005T040753Z-001\Project\QuanLyKho\QuanLyKho\obj\Debug\QuanLyKho.csproj.GenerateResource.cache
+D:\LTTT\Project-20211005T040753Z-001\Project\QuanLyKho\QuanLyKho\obj\Debug\QuanLyKho.csproj.CoreCompileInputs.cache
+D:\LTTT\Project-20211005T040753Z-001\Project\QuanLyKho\QuanLyKho\obj\Debug\QuanLyKho.csproj.CopyComplete
+D:\LTTT\Project-20211005T040753Z-001\Project\QuanLyKho\QuanLyKho\obj\Debug\QuanLyKho.exe
+D:\LTTT\Project-20211005T040753Z-001\Project\QuanLyKho\QuanLyKho\obj\Debug\QuanLyKho.pdb
+D:\GIUAKI_WPF\new giua\Project-20211005T040753Z-001\Project\QuanLyKho\QuanLyKho\bin\Debug\QuanLyKho.exe.config
+D:\GIUAKI_WPF\new giua\Project-20211005T040753Z-001\Project\QuanLyKho\QuanLyKho\bin\Debug\QuanLyKho.exe
+D:\GIUAKI_WPF\new giua\Project-20211005T040753Z-001\Project\QuanLyKho\QuanLyKho\bin\Debug\QuanLyKho.pdb
+D:\GIUAKI_WPF\new giua\Project-20211005T040753Z-001\Project\QuanLyKho\QuanLyKho\bin\Debug\EntityFramework.dll
+D:\GIUAKI_WPF\new giua\Project-20211005T040753Z-001\Project\QuanLyKho\QuanLyKho\bin\Debug\EntityFramework.SqlServer.dll
+D:\GIUAKI_WPF\new giua\Project-20211005T040753Z-001\Project\QuanLyKho\QuanLyKho\bin\Debug\MaterialDesignColors.dll
+D:\GIUAKI_WPF\new giua\Project-20211005T040753Z-001\Project\QuanLyKho\QuanLyKho\bin\Debug\MaterialDesignThemes.Wpf.dll
+D:\GIUAKI_WPF\new giua\Project-20211005T040753Z-001\Project\QuanLyKho\QuanLyKho\bin\Debug\Microsoft.Expression.Interactions.dll
+D:\GIUAKI_WPF\new giua\Project-20211005T040753Z-001\Project\QuanLyKho\QuanLyKho\bin\Debug\System.Windows.Interactivity.dll
+D:\GIUAKI_WPF\new giua\Project-20211005T040753Z-001\Project\QuanLyKho\QuanLyKho\bin\Debug\EntityFramework.xml
+D:\GIUAKI_WPF\new giua\Project-20211005T040753Z-001\Project\QuanLyKho\QuanLyKho\bin\Debug\EntityFramework.SqlServer.xml
+D:\GIUAKI_WPF\new giua\Project-20211005T040753Z-001\Project\QuanLyKho\QuanLyKho\bin\Debug\MaterialDesignThemes.Wpf.pdb
+D:\GIUAKI_WPF\new giua\Project-20211005T040753Z-001\Project\QuanLyKho\QuanLyKho\bin\Debug\MaterialDesignThemes.Wpf.xml
+D:\GIUAKI_WPF\new giua\Project-20211005T040753Z-001\Project\QuanLyKho\QuanLyKho\bin\Debug\Microsoft.Expression.Interactions.xml
+D:\GIUAKI_WPF\new giua\Project-20211005T040753Z-001\Project\QuanLyKho\QuanLyKho\bin\Debug\System.Windows.Interactivity.xml
+D:\GIUAKI_WPF\new giua\Project-20211005T040753Z-001\Project\QuanLyKho\QuanLyKho\obj\Debug\QuanLyKho.csproj.AssemblyReference.cache
+D:\GIUAKI_WPF\new giua\Project-20211005T040753Z-001\Project\QuanLyKho\QuanLyKho\obj\Debug\LoginWindow.g.cs
+D:\GIUAKI_WPF\new giua\Project-20211005T040753Z-001\Project\QuanLyKho\QuanLyKho\obj\Debug\MainWindow.g.cs
+D:\GIUAKI_WPF\new giua\Project-20211005T040753Z-001\Project\QuanLyKho\QuanLyKho\obj\Debug\UserControlKteam\ControlBarUC.g.cs
+D:\GIUAKI_WPF\new giua\Project-20211005T040753Z-001\Project\QuanLyKho\QuanLyKho\obj\Debug\UserWindow.g.cs
+D:\GIUAKI_WPF\new giua\Project-20211005T040753Z-001\Project\QuanLyKho\QuanLyKho\obj\Debug\App.g.cs
+D:\GIUAKI_WPF\new giua\Project-20211005T040753Z-001\Project\QuanLyKho\QuanLyKho\obj\Debug\QuanLyKho_Content.g.cs
+D:\GIUAKI_WPF\new giua\Project-20211005T040753Z-001\Project\QuanLyKho\QuanLyKho\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\GIUAKI_WPF\new giua\Project-20211005T040753Z-001\Project\QuanLyKho\QuanLyKho\obj\Debug\QuanLyKho_MarkupCompile.cache
+D:\GIUAKI_WPF\new giua\Project-20211005T040753Z-001\Project\QuanLyKho\QuanLyKho\obj\Debug\QuanLyKho_MarkupCompile.lref
+D:\GIUAKI_WPF\new giua\Project-20211005T040753Z-001\Project\QuanLyKho\QuanLyKho\obj\Debug\App.baml
+D:\GIUAKI_WPF\new giua\Project-20211005T040753Z-001\Project\QuanLyKho\QuanLyKho\obj\Debug\LoginWindow.baml
+D:\GIUAKI_WPF\new giua\Project-20211005T040753Z-001\Project\QuanLyKho\QuanLyKho\obj\Debug\MainWindow.baml
+D:\GIUAKI_WPF\new giua\Project-20211005T040753Z-001\Project\QuanLyKho\QuanLyKho\obj\Debug\ResourceXAML\MainResource.baml
+D:\GIUAKI_WPF\new giua\Project-20211005T040753Z-001\Project\QuanLyKho\QuanLyKho\obj\Debug\UserControlKteam\ControlBarUC.baml
+D:\GIUAKI_WPF\new giua\Project-20211005T040753Z-001\Project\QuanLyKho\QuanLyKho\obj\Debug\UserWindow.baml
+D:\GIUAKI_WPF\new giua\Project-20211005T040753Z-001\Project\QuanLyKho\QuanLyKho\obj\Debug\QuanLyKho.g.resources
+D:\GIUAKI_WPF\new giua\Project-20211005T040753Z-001\Project\QuanLyKho\QuanLyKho\obj\Debug\QuanLyKho.Properties.Resources.resources
+D:\GIUAKI_WPF\new giua\Project-20211005T040753Z-001\Project\QuanLyKho\QuanLyKho\obj\Debug\QuanLyKho.csproj.GenerateResource.cache
+D:\GIUAKI_WPF\new giua\Project-20211005T040753Z-001\Project\QuanLyKho\QuanLyKho\obj\Debug\QuanLyKho.csproj.CoreCompileInputs.cache
+D:\GIUAKI_WPF\new giua\Project-20211005T040753Z-001\Project\QuanLyKho\QuanLyKho\obj\Debug\QuanLyKho.csproj.CopyComplete
+D:\GIUAKI_WPF\new giua\Project-20211005T040753Z-001\Project\QuanLyKho\QuanLyKho\obj\Debug\QuanLyKho.exe
+D:\GIUAKI_WPF\new giua\Project-20211005T040753Z-001\Project\QuanLyKho\QuanLyKho\obj\Debug\QuanLyKho.pdb
+D:\GIUAKI_WPF\new giua\Project-20211005T040753Z-001\Project\QuanLyKho\QuanLyKho\obj\Debug\dkWindow.g.cs
+D:\GIUAKI_WPF\new giua\Project-20211005T040753Z-001\Project\QuanLyKho\QuanLyKho\obj\Debug\dkWindow.baml
+D:\GIUAKI_WPF\new giua\151900167-Nguyễn Thành Luân -151900334-Dương Minh Dien\Project\QuanLyKho\QuanLyKho\bin\Debug\QuanLyKho.exe.config
+D:\GIUAKI_WPF\new giua\151900167-Nguyễn Thành Luân -151900334-Dương Minh Dien\Project\QuanLyKho\QuanLyKho\bin\Debug\QuanLyKho.exe
+D:\GIUAKI_WPF\new giua\151900167-Nguyễn Thành Luân -151900334-Dương Minh Dien\Project\QuanLyKho\QuanLyKho\bin\Debug\QuanLyKho.pdb
+D:\GIUAKI_WPF\new giua\151900167-Nguyễn Thành Luân -151900334-Dương Minh Dien\Project\QuanLyKho\QuanLyKho\bin\Debug\EntityFramework.dll
+D:\GIUAKI_WPF\new giua\151900167-Nguyễn Thành Luân -151900334-Dương Minh Dien\Project\QuanLyKho\QuanLyKho\bin\Debug\EntityFramework.SqlServer.dll
+D:\GIUAKI_WPF\new giua\151900167-Nguyễn Thành Luân -151900334-Dương Minh Dien\Project\QuanLyKho\QuanLyKho\bin\Debug\MaterialDesignColors.dll
+D:\GIUAKI_WPF\new giua\151900167-Nguyễn Thành Luân -151900334-Dương Minh Dien\Project\QuanLyKho\QuanLyKho\bin\Debug\MaterialDesignThemes.Wpf.dll
+D:\GIUAKI_WPF\new giua\151900167-Nguyễn Thành Luân -151900334-Dương Minh Dien\Project\QuanLyKho\QuanLyKho\bin\Debug\Microsoft.Expression.Interactions.dll
+D:\GIUAKI_WPF\new giua\151900167-Nguyễn Thành Luân -151900334-Dương Minh Dien\Project\QuanLyKho\QuanLyKho\bin\Debug\System.Windows.Interactivity.dll
+D:\GIUAKI_WPF\new giua\151900167-Nguyễn Thành Luân -151900334-Dương Minh Dien\Project\QuanLyKho\QuanLyKho\bin\Debug\EntityFramework.xml
+D:\GIUAKI_WPF\new giua\151900167-Nguyễn Thành Luân -151900334-Dương Minh Dien\Project\QuanLyKho\QuanLyKho\bin\Debug\EntityFramework.SqlServer.xml
+D:\GIUAKI_WPF\new giua\151900167-Nguyễn Thành Luân -151900334-Dương Minh Dien\Project\QuanLyKho\QuanLyKho\bin\Debug\MaterialDesignThemes.Wpf.pdb
+D:\GIUAKI_WPF\new giua\151900167-Nguyễn Thành Luân -151900334-Dương Minh Dien\Project\QuanLyKho\QuanLyKho\bin\Debug\MaterialDesignThemes.Wpf.xml
+D:\GIUAKI_WPF\new giua\151900167-Nguyễn Thành Luân -151900334-Dương Minh Dien\Project\QuanLyKho\QuanLyKho\bin\Debug\Microsoft.Expression.Interactions.xml
+D:\GIUAKI_WPF\new giua\151900167-Nguyễn Thành Luân -151900334-Dương Minh Dien\Project\QuanLyKho\QuanLyKho\bin\Debug\System.Windows.Interactivity.xml
+D:\GIUAKI_WPF\new giua\151900167-Nguyễn Thành Luân -151900334-Dương Minh Dien\Project\QuanLyKho\QuanLyKho\obj\Debug\QuanLyKho.csproj.AssemblyReference.cache
+D:\GIUAKI_WPF\new giua\151900167-Nguyễn Thành Luân -151900334-Dương Minh Dien\Project\QuanLyKho\QuanLyKho\obj\Debug\dkWindow.g.cs
+D:\GIUAKI_WPF\new giua\151900167-Nguyễn Thành Luân -151900334-Dương Minh Dien\Project\QuanLyKho\QuanLyKho\obj\Debug\LoginWindow.g.cs
+D:\GIUAKI_WPF\new giua\151900167-Nguyễn Thành Luân -151900334-Dương Minh Dien\Project\QuanLyKho\QuanLyKho\obj\Debug\MainWindow.g.cs
+D:\GIUAKI_WPF\new giua\151900167-Nguyễn Thành Luân -151900334-Dương Minh Dien\Project\QuanLyKho\QuanLyKho\obj\Debug\UserControlKteam\ControlBarUC.g.cs
+D:\GIUAKI_WPF\new giua\151900167-Nguyễn Thành Luân -151900334-Dương Minh Dien\Project\QuanLyKho\QuanLyKho\obj\Debug\UserWindow.g.cs
+D:\GIUAKI_WPF\new giua\151900167-Nguyễn Thành Luân -151900334-Dương Minh Dien\Project\QuanLyKho\QuanLyKho\obj\Debug\App.g.cs
+D:\GIUAKI_WPF\new giua\151900167-Nguyễn Thành Luân -151900334-Dương Minh Dien\Project\QuanLyKho\QuanLyKho\obj\Debug\QuanLyKho_Content.g.cs
+D:\GIUAKI_WPF\new giua\151900167-Nguyễn Thành Luân -151900334-Dương Minh Dien\Project\QuanLyKho\QuanLyKho\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\GIUAKI_WPF\new giua\151900167-Nguyễn Thành Luân -151900334-Dương Minh Dien\Project\QuanLyKho\QuanLyKho\obj\Debug\QuanLyKho_MarkupCompile.cache
+D:\GIUAKI_WPF\new giua\151900167-Nguyễn Thành Luân -151900334-Dương Minh Dien\Project\QuanLyKho\QuanLyKho\obj\Debug\QuanLyKho_MarkupCompile.lref
+D:\GIUAKI_WPF\new giua\151900167-Nguyễn Thành Luân -151900334-Dương Minh Dien\Project\QuanLyKho\QuanLyKho\obj\Debug\App.baml
+D:\GIUAKI_WPF\new giua\151900167-Nguyễn Thành Luân -151900334-Dương Minh Dien\Project\QuanLyKho\QuanLyKho\obj\Debug\dkWindow.baml
+D:\GIUAKI_WPF\new giua\151900167-Nguyễn Thành Luân -151900334-Dương Minh Dien\Project\QuanLyKho\QuanLyKho\obj\Debug\LoginWindow.baml
+D:\GIUAKI_WPF\new giua\151900167-Nguyễn Thành Luân -151900334-Dương Minh Dien\Project\QuanLyKho\QuanLyKho\obj\Debug\MainWindow.baml
+D:\GIUAKI_WPF\new giua\151900167-Nguyễn Thành Luân -151900334-Dương Minh Dien\Project\QuanLyKho\QuanLyKho\obj\Debug\ResourceXAML\MainResource.baml
+D:\GIUAKI_WPF\new giua\151900167-Nguyễn Thành Luân -151900334-Dương Minh Dien\Project\QuanLyKho\QuanLyKho\obj\Debug\UserControlKteam\ControlBarUC.baml
+D:\GIUAKI_WPF\new giua\151900167-Nguyễn Thành Luân -151900334-Dương Minh Dien\Project\QuanLyKho\QuanLyKho\obj\Debug\UserWindow.baml
+D:\GIUAKI_WPF\new giua\151900167-Nguyễn Thành Luân -151900334-Dương Minh Dien\Project\QuanLyKho\QuanLyKho\obj\Debug\QuanLyKho.g.resources
+D:\GIUAKI_WPF\new giua\151900167-Nguyễn Thành Luân -151900334-Dương Minh Dien\Project\QuanLyKho\QuanLyKho\obj\Debug\QuanLyKho.Properties.Resources.resources
+D:\GIUAKI_WPF\new giua\151900167-Nguyễn Thành Luân -151900334-Dương Minh Dien\Project\QuanLyKho\QuanLyKho\obj\Debug\QuanLyKho.csproj.GenerateResource.cache
+D:\GIUAKI_WPF\new giua\151900167-Nguyễn Thành Luân -151900334-Dương Minh Dien\Project\QuanLyKho\QuanLyKho\obj\Debug\QuanLyKho.csproj.CoreCompileInputs.cache
+D:\GIUAKI_WPF\new giua\151900167-Nguyễn Thành Luân -151900334-Dương Minh Dien\Project\QuanLyKho\QuanLyKho\obj\Debug\QuanLyKho.csproj.CopyComplete
+D:\GIUAKI_WPF\new giua\151900167-Nguyễn Thành Luân -151900334-Dương Minh Dien\Project\QuanLyKho\QuanLyKho\obj\Debug\QuanLyKho.exe
+D:\GIUAKI_WPF\new giua\151900167-Nguyễn Thành Luân -151900334-Dương Minh Dien\Project\QuanLyKho\QuanLyKho\obj\Debug\QuanLyKho.pdb
