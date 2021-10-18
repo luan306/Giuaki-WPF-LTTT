@@ -35,7 +35,6 @@
     <EntitySetMapping Name="UserRoles">
       <EntityTypeMapping TypeName="PhanmemQuanLydkModel.UserRole">
         <MappingFragment StoreEntitySet="UserRole">
-          <ScalarProperty Name="UserName" ColumnName="UserName" />
           <ScalarProperty Name="DisplayName" ColumnName="DisplayName" />
           <ScalarProperty Name="Id" ColumnName="Id" />
         </MappingFragment>

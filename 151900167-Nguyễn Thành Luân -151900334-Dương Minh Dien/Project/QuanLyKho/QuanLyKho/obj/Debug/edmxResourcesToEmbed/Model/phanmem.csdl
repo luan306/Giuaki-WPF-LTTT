@@ -45,7 +45,6 @@
     </Key>
     <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
     <Property Name="DisplayName" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
-    <Property Name="UserName" Type="String" MaxLength="100" FixedLength="true" Unicode="true" />
     <NavigationProperty Name="Users" Relationship="PhanmemQuanLydkModel.FK__Users__IdRole__164452B1" FromRole="UserRole" ToRole="User" />
   </EntityType>
   <EntityType Name="User">

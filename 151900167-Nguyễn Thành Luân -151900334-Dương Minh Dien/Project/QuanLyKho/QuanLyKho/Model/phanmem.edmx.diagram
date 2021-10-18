@@ -4,11 +4,11 @@
   <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
     <!-- Diagram content (shape and connector positions) -->
     <edmx:Diagrams>
-      <Diagram DiagramId="5292c0f0ed7d48758c82cb99e2dab166" Name="Diagram1">
+      <Diagram DiagramId="ad83e5e6399f44c0bd70a599dd4fcbd9" Name="Diagram1">
         <EntityTypeShape EntityType="PhanmemQuanLydkModel.Customer" Width="1.5" PointX="0.75" PointY="4.75" />
         <EntityTypeShape EntityType="PhanmemQuanLydkModel.Input" Width="1.5" PointX="2.75" PointY="4.75" />
         <EntityTypeShape EntityType="PhanmemQuanLydkModel.Unit" Width="1.5" PointX="4.75" PointY="4.75" />
-        <EntityTypeShape EntityType="PhanmemQuanLydkModel.UserRole" Width="1.5" PointX="0.75" PointY="1.125" />
+        <EntityTypeShape EntityType="PhanmemQuanLydkModel.UserRole" Width="1.5" PointX="0.75" PointY="1.25" />
         <EntityTypeShape EntityType="PhanmemQuanLydkModel.User" Width="1.5" PointX="3" PointY="0.875" />
         <AssociationConnector Association="PhanmemQuanLydkModel.FK__Users__IdRole__164452B1" />
       </Diagram>

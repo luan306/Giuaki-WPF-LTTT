@@ -5,7 +5,7 @@ use PhanmemQuanLydk
 go
 create table Customer
 (
-	Id int primary key,
+	Id int identity(1,1) primary key,
 	Name nvarchar(100),
 	Phone nvarchar(20),
 	soluong nvarchar(20) ,

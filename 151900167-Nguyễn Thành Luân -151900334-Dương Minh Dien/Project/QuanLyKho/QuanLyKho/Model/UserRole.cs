@@ -27,7 +27,6 @@ namespace QuanLyKho.Model
         private string _UserName { get; set; }
         public string UserName { get => _UserName; set { _UserName = value; OnPropertyChanged(); } }
 
-
         [System.Diagnostics.CodeAnalysis.SuppressMessage("Microsoft.Usage", "CA2227:CollectionPropertiesShouldBeReadOnly")]
         public virtual ICollection<User> Users { get; set; }
     }

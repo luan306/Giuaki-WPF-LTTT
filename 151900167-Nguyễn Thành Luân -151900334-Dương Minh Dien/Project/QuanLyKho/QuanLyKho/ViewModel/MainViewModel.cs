@@ -125,7 +125,6 @@ namespace QuanLyKho.ViewModel
 
                 data.Ins.DB.Customers.Add(customer);
                 data.Ins.DB.SaveChanges();
-
                 List.Add(customer);
             });
 

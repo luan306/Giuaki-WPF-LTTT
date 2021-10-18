@@ -34,7 +34,6 @@
     </Key>
     <Property Name="Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
     <Property Name="DisplayName" Type="nvarchar(max)" />
-    <Property Name="UserName" Type="nchar" MaxLength="100" />
   </EntityType>
   <EntityType Name="Users">
     <Key>

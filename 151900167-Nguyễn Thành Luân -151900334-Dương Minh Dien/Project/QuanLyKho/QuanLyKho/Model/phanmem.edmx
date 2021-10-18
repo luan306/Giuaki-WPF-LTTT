@@ -39,7 +39,6 @@
           </Key>
           <Property Name="Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
           <Property Name="DisplayName" Type="nvarchar(max)" />
-          <Property Name="UserName" Type="nchar" MaxLength="100" />
         </EntityType>
         <EntityType Name="Users">
           <Key>
@@ -123,7 +122,6 @@
           </Key>
           <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
           <Property Name="DisplayName" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
-          <Property Name="UserName" Type="String" MaxLength="100" FixedLength="true" Unicode="true" />
           <NavigationProperty Name="Users" Relationship="PhanmemQuanLydkModel.FK__Users__IdRole__164452B1" FromRole="UserRole" ToRole="User" />
         </EntityType>
         <EntityType Name="User">
@@ -189,7 +187,6 @@
           <EntitySetMapping Name="UserRoles">
             <EntityTypeMapping TypeName="PhanmemQuanLydkModel.UserRole">
               <MappingFragment StoreEntitySet="UserRole">
-                <ScalarProperty Name="UserName" ColumnName="UserName" />
                 <ScalarProperty Name="DisplayName" ColumnName="DisplayName" />
                 <ScalarProperty Name="Id" ColumnName="Id" />
               </MappingFragment>

@@ -1,4 +1,4 @@
-﻿// T4 code generation is enabled for model 'D:\LTTT\Project-20211005T040753Z-001\Project\QuanLyKho\QuanLyKho\Model\phanmem.edmx'. 
+﻿// T4 code generation is enabled for model 'D:\Giuaki-WPF-LTTT\151900167-Nguyễn Thành Luân -151900334-Dương Minh Dien\Project\QuanLyKho\QuanLyKho\Model\phanmem.edmx'. 
 // To enable legacy code generation, change the value of the 'Code Generation Strategy' designer
 // property to 'Legacy ObjectContext'. This property is available in the Properties Window when the model
 // is open in the designer.
